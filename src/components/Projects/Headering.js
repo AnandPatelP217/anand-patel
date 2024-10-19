@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import "../Stylesheet/Headering.css"
 const Headering = () => {
   // Define an array with paths to your images
-  const images = ['./images/Projects/health.png', './images/Projects/rail-netra.png', './images/Projects/criminal-database.png','./images/Projects/alumni_connect.png'];
+  const images = ['./images/Projects/Health.png', './images/Projects/rail-netra.png', './images/Projects/criminal-database.png','./images/Projects/alumni_connect.png'];
 
   // State to keep track of the index of the current image
   const [currentImageIndex, setCurrentImageIndex] = useState(0);

@@ -74,11 +74,6 @@ const Navbar = () => {
             </ul>
           </nav>
           <div className="header-right">
-            {/* Register Button For Different Devices */}
-            
-            <NavLink className="profile" to="/profile"><i class="fa-sharp fa-solid fa-user" />
-              
-            </NavLink>
             
 
             {/* Three Line Button */}
