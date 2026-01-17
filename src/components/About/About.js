@@ -12,9 +12,11 @@ const About = () => {
           <div className="text-column2">
            
             <h1>About<div className='fontcolorchange'>Me</div></h1>
-            <p> Hi Everyone,My Name is <div className='fontcolorchange'>Anand Patel </div>from Bhopal,Madhya Pradesh, India.</p>
-            <p> I am a 3rd year student pursuing a <div className='fontcolorchange'>Bachelor's degree in Computer Science </div>at SISTEC-R Ratibad.</p> 
-            <p> I love technology and I'm always eager to learn more and improve my skills in this field.</p>
+            <p> Hi Everyone, My Name is <div className='fontcolorchange'>Anand Patel</div> from Bhopal, Madhya Pradesh, India.</p>
+            <p> I am a <div className='fontcolorchange'>Computer Science graduate</div> from SISTEC-R.</p> 
+            <p> I have strong experience in <div className='fontcolorchange'>full-stack web development using the MERN stack</div>.</p>
+            <p> I love building <div className='fontcolorchange'>responsive, user-friendly applications</div> and I'm always eager to learn more and improve my skills in this field.</p>
+            <p> I have developed real-world projects like an <div className='fontcolorchange'>Alumni Platform and a Secure Hub</div>, and I'm looking to contribute to a fast-paced development team.</p>
           </div>
          
           <div className="image-column2">

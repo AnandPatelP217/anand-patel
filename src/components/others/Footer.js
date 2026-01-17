@@ -24,11 +24,11 @@ const Footer = () => {
                 <h3 className="f-title f_600 t_color f_size_18">Download</h3>
                 <ul className="list-unstyled f_list">
                   <li><NavLink to="/">Home</NavLink></li>
-                  <li><NavLink to="/">about</NavLink></li>
-                  <li><NavLink to="/">Projects</NavLink></li>
-                  <li><NavLink to="/">Certificates</NavLink></li>
-                  <li><NavLink to="/">ContactUs</NavLink></li>
-                  <li><NavLink to="/">Profile</NavLink></li>
+                  <li><NavLink to="/about">About</NavLink></li>
+                  <li><NavLink to="/project">Projects</NavLink></li>
+                  <li><NavLink to="/certificate">Certificates</NavLink></li>
+                  <li><NavLink to="/resume">Resume</NavLink></li>
+                  <li><NavLink to="/contactus">Contact Us</NavLink></li>
                 </ul>
               </div>
             </div>

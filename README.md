@@ -1,6 +1,42 @@
-# Getting Started with Create React App
+# Anand Patel - Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive portfolio website built with React.js showcasing my projects, skills, and professional experience.
+
+## 👨‍💻 About
+
+Computer Science graduate with strong experience in full-stack web development using the MERN stack. This portfolio showcases my projects, achievements, and professional journey.
+
+## 🚀 Features
+
+- **Responsive Design** - Fully responsive across all devices (mobile, tablet, desktop)
+- **Modern UI/UX** - Clean and professional design with smooth animations
+- **Dynamic Resume** - Interactive resume section with comprehensive information
+- **Projects Showcase** - Display of real-world projects with live links
+- **Certificates** - Professional certifications and achievements
+- **Contact Form** - Easy way to get in touch
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, React Router
+- **Styling:** CSS3, Bootstrap, React Bootstrap
+- **Animations:** Lottie, React Icons
+- **Others:** Typewriter Effect, React PDF
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/anandpatelp217/portfolio.git
+
+# Navigate to project directory
+cd anand-patel
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+```
 
 ## Available Scripts
 
@@ -29,25 +65,28 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## 📱 Pages
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Home** - Landing page with introduction and highlights
+- **About** - Personal information and background
+- **Projects** - Showcase of developed projects
+- **Resume** - Detailed professional experience and education
+- **Certificates** - Professional certifications
+- **Contact** - Contact form and information
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📧 Contact
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Email: anandpatelp217@gmail.com
+- LinkedIn: [linkedin.com/in/anand-patel-p217](https://linkedin.com/in/anand-patel-p217)
+- GitHub: [github.com/anandpatelp217](https://github.com/anandpatelp217)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📄 License
 
-## Learn More
+This project is open source and available under the [MIT License](LICENSE).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Made with ❤️ by Anand Patel
 
 ### Analyzing the Bundle Size
 
