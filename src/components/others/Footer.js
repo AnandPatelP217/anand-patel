@@ -45,13 +45,11 @@ const Footer = () => {
               <div className="f_widget social-widget pl_70 wow fadeInLeft" data-wow-delay="0.8s">
                 <h3 className="f-title f_600 t_color f_size_18">Social Links</h3>
                 <div className="f_social_icon">
-                  <a href="https://www.linkedin.com/in/anand-patel-p217/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                  <a href="https://www.linkedin.com/in/anand-patel-p217/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="LinkedIn">
                     <i className="fab fa-linkedin" aria-hidden="true"></i>
-                    <span className="sr-only">LinkedIn</span>
                   </a>
-                  <a href="https://github.com/AnandPatelP217" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                  <a href="https://github.com/AnandPatelP217" target="_blank" rel="noopener noreferrer" aria-label="GitHub" title="GitHub">
                     <i className="fab fa-github" aria-hidden="true"></i>
-                    <span className="sr-only">GitHub</span>
                   </a>
                 </div>
               </div>
