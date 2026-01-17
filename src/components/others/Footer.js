@@ -45,8 +45,14 @@ const Footer = () => {
               <div className="f_widget social-widget pl_70 wow fadeInLeft" data-wow-delay="0.8s">
                 <h3 className="f-title f_600 t_color f_size_18">Social Links</h3>
                 <div className="f_social_icon">
-                  <a href="https://www.linkedin.com/in/anand-patel-p217/" className="fab fa-linkedin"></a>
-                  <a href="https://github.com/AnandPatelP217" className="fab fa-github"></a>
+                  <a href="https://www.linkedin.com/in/anand-patel-p217/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                    <i className="fab fa-linkedin" aria-hidden="true"></i>
+                    <span className="sr-only">LinkedIn</span>
+                  </a>
+                  <a href="https://github.com/AnandPatelP217" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                    <i className="fab fa-github" aria-hidden="true"></i>
+                    <span className="sr-only">GitHub</span>
+                  </a>
                 </div>
               </div>
             </div>
@@ -63,8 +69,8 @@ const Footer = () => {
             <div className="col-lg-6 col-sm-7">
               <p className="mb-0 f_400">Inc.. 2024 All rights reserved.</p>
             </div>
-            <div className="col-lg-6 col-sm-5 text-right">
-              <p>Made by <i className="icon_heart"></i> in <a href="#" target="_blank" rel="noopener noreferrer">ANAND PATEL</a></p>
+              <div className="col-lg-6 col-sm-5 text-right">
+              <p>Made by <i className="icon_heart"></i> in <a href="/" target="_blank" rel="noopener noreferrer">ANAND PATEL</a></p>
             </div>
           </div>
         </div>

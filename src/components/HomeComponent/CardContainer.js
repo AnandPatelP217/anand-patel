@@ -12,13 +12,13 @@ const Card = ({ name, role, imageUrl }) => (
     </div>
     <ul className="sci">
       <li style={{ '--i': 1 }}>
-        <a href="#"><i className="fa fa-facebook" aria-hidden="true"></i></a>
+        <a href="/" aria-label="Facebook"><i className="fa fa-facebook" aria-hidden="true"></i><span className="sr-only">Facebook</span></a>
       </li>
       <li style={{ '--i': 2 }}>
-        <a href="#"><i className="fa fa-instagram" aria-hidden="true"></i></a>
+        <a href="/" aria-label="Instagram"><i className="fa fa-instagram" aria-hidden="true"></i><span className="sr-only">Instagram</span></a>
       </li>
       <li style={{ '--i': 3 }}>
-        <a href="#"><i className="fa fa-github" aria-hidden="true"></i></a>
+        <a href="/" aria-label="GitHub"><i className="fa fa-github" aria-hidden="true"></i><span className="sr-only">GitHub</span></a>
       </li>
     </ul>
   </div>

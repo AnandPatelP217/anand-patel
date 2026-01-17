@@ -102,7 +102,7 @@
   user-select: none;
   position: absolute;
   color: var(--text-black-900);
-  top: calc(50%, -5px);
+  top: calc(50% - 5px);
 }
 
 .header .menu > ul > li > i {
